@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Adity-code2145/AlgoForge/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
+| [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/Adity-code2145/AlgoForge/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adity-code2145/AlgoForge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adity-code2145/AlgoForge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -103,4 +104,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Adity-code2145/AlgoForge/tree/master/0402-remove-k-digits) |
+| [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
+## Math
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
