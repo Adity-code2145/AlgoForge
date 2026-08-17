@@ -1,39 +1,44 @@
 class Solution {
-    public List<Integer> spiralOrder(int[][] matrix) {
+    public List<Integer> spiralOrder(int[][] M) {
         List<Integer> ans = new ArrayList<>();
-        int n = matrix.length;
-        int left =0;
-        int right = matrix[0].length-1;
-        int top = 0;
-        int bottom = n-1;
+        
+        int [][] dir = {{0 , 1} , {1 , 0} , {0 , -1} , {-1 , 0}};
 
-        while(top<=bottom && left<=right){
-            
-            // left to right
-            for(int j = left;j<=right;j++){
-                ans.add(matrix[top][j]);
-            }
-            top++;
-            
-            // top to bottom
-            for(int i = top;i<=bottom;i++){
-                ans.add(matrix[i][right]);
-            }
-            right--;
+        int n = M.length , m = M[0].length;
+        boolean [][]vis = new boolean[n + 1][m + 1];
+        int inx = 0;
+        int i = 0 , j = 0;
+        
+        if(n == 1) {
+            for(int jj = 0; jj < M[0].length; ++jj)
+            ans.add(M[0][jj]);
 
-            if(top<=bottom){
-                for(int j = right;j>=left;j--){
-                    ans.add(matrix[bottom][j]);
-                }
-                bottom--;
-            }
-            if(left<=right){
-                for(int i = bottom;i>=top;i--){
-                    ans.add(matrix[i][left]);
-                }
-                left++;
-            }
+            return ans; 
+        }    
+
+        if(m == 1) {
+            for(int jj = 0; jj < M.length; ++jj)
+            ans.add(M[jj][0]);
+
+            return ans;             
         }
-        return ans;
+
+        while(true) {
+            ans.add(M[i][j]);
+            vis[i][j] = true;
+
+            int ix = i + dir[inx][0] , jx = j + dir[inx][1];
+
+            if(ix >= n || ix < 0 || jx >= m || jx < 0 || vis[ix][jx]) {
+                inx++; inx %= dir.length;
+
+                ix = i + dir[inx][0] ; jx = j + dir[inx][1];
+
+                if(ix > n || ix < 0 || jx > m || jx < 0 || vis[ix][jx])
+                   return ans;
+            } 
+
+            i = ix; j = jx;
+        }
     }
 }
