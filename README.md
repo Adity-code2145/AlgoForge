@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Adity-code2145/AlgoForge/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Adity-code2145/AlgoForge/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adity-code2145/AlgoForge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -153,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Adity-code2145/AlgoForge/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Adity-code2145/AlgoForge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
