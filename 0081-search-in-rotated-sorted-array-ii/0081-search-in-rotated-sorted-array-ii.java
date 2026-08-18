@@ -6,12 +6,12 @@ class Solution {
         while(low<=high){
             int mid = low+(high-low)/2;
             if(arr[mid]==target) return true;
-            if(arr[mid] == arr[low] && arr[mid] == arr[high]){
+             if(arr[low]==arr[mid] && arr[mid]==arr[high]){
                 low++;
                 high--;
             }    
             else if(arr[low]<=arr[mid]){
-                if(arr[low]>=target && arr[mid]<=target){
+                if(arr[low]<=target && arr[mid]>=target){
                     high = mid-1;
                 } else{
                     low = mid+1;
