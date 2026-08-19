@@ -9,7 +9,7 @@ class Solution {
             ans.add(s);
             return;
         }
-        if(l<n) print(n, l+1, r, s+'(',ans);
+        if(l<n) print(n, l+1,r,s+'(', ans);
         if(l>r) print(n, l,r +1 , s+')', ans);
     }
 }
