@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/Adity-code2145/AlgoForge/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adity-code2145/AlgoForge/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Adity-code2145/AlgoForge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adity-code2145/AlgoForge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adity-code2145/AlgoForge/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Adity-code2145/AlgoForge/tree/master/0735-asteroid-collision) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Adity-code2145/AlgoForge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
 | ------- |
