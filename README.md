@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Adity-code2145/AlgoForge/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/Adity-code2145/AlgoForge/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Adity-code2145/AlgoForge/tree/master/0704-binary-search) |
 ## Backtracking
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adity-code2145/AlgoForge/tree/master/0102-binary-tree-level-order-traversal) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Adity-code2145/AlgoForge/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
