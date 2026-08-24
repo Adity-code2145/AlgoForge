@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adity-code2145/AlgoForge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/Adity-code2145/AlgoForge/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adity-code2145/AlgoForge/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adity-code2145/AlgoForge/tree/master/0013-roman-to-integer) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Adity-code2145/AlgoForge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adity-code2145/AlgoForge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Adity-code2145/AlgoForge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -174,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
 ## Data Stream
 |  |
@@ -289,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Adity-code2145/AlgoForge/tree/master/0056-merge-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
