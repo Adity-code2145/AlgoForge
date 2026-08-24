@@ -1,11 +1,26 @@
 class Solution {
     public int minStartValue(int[] nums) {
-        int sum = 0;
-        int minSum =0;
+       int low =1;
+       int high = 1000000;
+       while(low<=high){
+        int mid = low+(high-low)/2;
+
+        if(isvalid(nums,mid)){
+            high = mid-1;
+        }else{
+            low = mid+1;
+        }
+       }
+       return low;
+    }
+    public boolean isvalid(int[] nums, int mid){
+        int sum =mid;
         for(int num : nums){
             sum += num;
-            minSum = Math.min(minSum, sum);
+            if(sum<1){
+                return false;
+            }
         }
-        return 1-minSum;
+        return true;
     }
 }
