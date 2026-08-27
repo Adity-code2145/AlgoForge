@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adity-code2145/AlgoForge/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Adity-code2145/AlgoForge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adity-code2145/AlgoForge/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Adity-code2145/AlgoForge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adity-code2145/AlgoForge/tree/master/0057-insert-interval) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adity-code2145/AlgoForge/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Adity-code2145/AlgoForge/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Adity-code2145/AlgoForge/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Adity-code2145/AlgoForge/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
