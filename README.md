@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adity-code2145/AlgoForge/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Adity-code2145/AlgoForge/tree/master/0013-roman-to-integer) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adity-code2145/AlgoForge/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -329,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adity-code2145/AlgoForge/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adity-code2145/AlgoForge/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adity-code2145/AlgoForge/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
