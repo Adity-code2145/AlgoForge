@@ -2,13 +2,13 @@ class Solution {
     public int minSubArrayLen(int target, int[] nums) {
         int n = nums.length;
         int left = 0;
-        int min = Integer.MAX_VALUE;
         int sum = 0;
-        for(int right = left;right<n;right++){
+        int min =Integer.MAX_VALUE;
+        for(int right =left;right<n;right++){
             sum += nums[right];
             while(sum >= target){
-                min = Math.min(min, right-left+1);
-                sum -= nums[left];
+                min = Math.min(min,right-left+1);
+                //sum -= nums[left];
                 left++;
             }
         }
