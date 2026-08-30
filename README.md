@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Adity-code2145/AlgoForge/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Adity-code2145/AlgoForge/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Adity-code2145/AlgoForge/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adity-code2145/AlgoForge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Adity-code2145/AlgoForge/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adity-code2145/AlgoForge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Adity-code2145/AlgoForge/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Adity-code2145/AlgoForge/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adity-code2145/AlgoForge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adity-code2145/AlgoForge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
