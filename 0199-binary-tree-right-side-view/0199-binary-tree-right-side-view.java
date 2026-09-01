@@ -4,17 +4,18 @@ class Solution {
         if(root == null){
             return ans;
         }
-        level(root,0,ans);
-        return ans;
+        print(root,ans,0);
+        return ans;   
     }
-    public void level(TreeNode root, int level, List<Integer> ans){
+    public void print(TreeNode root, List<Integer> ans, int level){
         if(root == null) return;
         if(ans.size()<=level){
             ans.add(root.val);
-        }else{
+        }
+        else{
             ans.set(level,root.val);
         }
-        level(root.left, level+1, ans);
-        level(root.right, level+1,ans);
+        print(root.left, ans, level+1);
+        print(root.right,ans, level+1);
     }
 }
