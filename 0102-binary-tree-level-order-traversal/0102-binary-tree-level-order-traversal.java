@@ -1,21 +1,22 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> ans = new ArrayList<>();
-        dfs(root, 0, ans);
+        if(root == null){
+            return ans;
+        }
+        print(root,0,ans);
         return ans;
     }
-    public  void dfs(TreeNode root, int level, List<List<Integer>> ans){
-        if(root == null) {
+    public void print(TreeNode root, int level, List<List<Integer>> ans){
+        if(root==null){
             return;
         }
-
-        if(ans.size() == level){
+        if(ans.size()==level){
             ans.add(new ArrayList<>());
         }
-
+        
         ans.get(level).add(root.val);
-
-        dfs(root.left,level+1, ans);
-        dfs(root.right, level+1,ans);
+        print(root.left,level+1,ans);
+        print(root.right,level+1,ans);
     }
 }
