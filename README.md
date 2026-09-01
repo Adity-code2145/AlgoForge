@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adity-code2145/AlgoForge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adity-code2145/AlgoForge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adity-code2145/AlgoForge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adity-code2145/AlgoForge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adity-code2145/AlgoForge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adity-code2145/AlgoForge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adity-code2145/AlgoForge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adity-code2145/AlgoForge/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Adity-code2145/AlgoForge/tree/master/0085-maximal-rectangle) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adity-code2145/AlgoForge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adity-code2145/AlgoForge/tree/master/0199-binary-tree-right-side-view) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Adity-code2145/AlgoForge/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Interactive
 |  |
 | ------- |
