@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adity-code2145/AlgoForge/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0042-trapping-rain-water) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Adity-code2145/AlgoForge/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0088-merge-sorted-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Adity-code2145/AlgoForge/tree/master/0402-remove-k-digits) |
 | [1927-sum-game](https://github.com/Adity-code2145/AlgoForge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
