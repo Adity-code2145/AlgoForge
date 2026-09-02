@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adity-code2145/AlgoForge/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0042-trapping-rain-water) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Adity-code2145/AlgoForge/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Adity-code2145/AlgoForge/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0088-merge-sorted-array) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Adity-code2145/AlgoForge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0215-kth-largest-element-in-an-array) |
