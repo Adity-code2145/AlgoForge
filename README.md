@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Adity-code2145/AlgoForge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adity-code2145/AlgoForge/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/Adity-code2145/AlgoForge/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Adity-code2145/AlgoForge/tree/master/0402-remove-k-digits) |
 | [1927-sum-game](https://github.com/Adity-code2145/AlgoForge/tree/master/1927-sum-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adity-code2145/AlgoForge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Adity-code2145/AlgoForge/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
 | [0496-next-greater-element-i](https://github.com/Adity-code2145/AlgoForge/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adity-code2145/AlgoForge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Adity-code2145/AlgoForge/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Adity-code2145/AlgoForge/tree/master/0713-subarray-product-less-than-k) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adity-code2145/AlgoForge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adity-code2145/AlgoForge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -443,5 +447,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/Adity-code2145/AlgoForge/tree/master/0572-subtree-of-another-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
