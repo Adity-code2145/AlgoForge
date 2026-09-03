@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adity-code2145/AlgoForge/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Adity-code2145/AlgoForge/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Adity-code2145/AlgoForge/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/Adity-code2145/AlgoForge/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
