@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Adity-code2145/AlgoForge/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Adity-code2145/AlgoForge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Adity-code2145/AlgoForge/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/Adity-code2145/AlgoForge/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Adity-code2145/AlgoForge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Adity-code2145/AlgoForge/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/Adity-code2145/AlgoForge/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Adity-code2145/AlgoForge/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Adity-code2145/AlgoForge/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
