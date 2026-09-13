@@ -26,7 +26,7 @@ class Solution {
                 if(!vis[ele]){
                     q.add(ele);
                     vis[ele] = true;
-                    if(ele == end) return;
+                    // if(ele == end) return;
                 }
             }
         }
