@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Adity-code2145/AlgoForge/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Adity-code2145/AlgoForge/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Adity-code2145/AlgoForge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Adity-code2145/AlgoForge/tree/master/0239-sliding-window-maximum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Adity-code2145/AlgoForge/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Adity-code2145/AlgoForge/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Adity-code2145/AlgoForge/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Adity-code2145/AlgoForge/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Adity-code2145/AlgoForge/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Adity-code2145/AlgoForge/tree/master/0994-rotting-oranges) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Adity-code2145/AlgoForge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adity-code2145/AlgoForge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adity-code2145/AlgoForge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Adity-code2145/AlgoForge/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adity-code2145/AlgoForge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adity-code2145/AlgoForge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Adity-code2145/AlgoForge/tree/master/0257-binary-tree-paths) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adity-code2145/AlgoForge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adity-code2145/AlgoForge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adity-code2145/AlgoForge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Adity-code2145/AlgoForge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Adity-code2145/AlgoForge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Adity-code2145/AlgoForge/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Adity-code2145/AlgoForge/tree/master/0841-keys-and-rooms) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Adity-code2145/AlgoForge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Adity-code2145/AlgoForge/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adity-code2145/AlgoForge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adity-code2145/AlgoForge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
