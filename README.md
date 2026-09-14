@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Adity-code2145/AlgoForge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Adity-code2145/AlgoForge/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Adity-code2145/AlgoForge/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Adity-code2145/AlgoForge/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adity-code2145/AlgoForge/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
@@ -527,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Adity-code2145/AlgoForge/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Adity-code2145/AlgoForge/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adity-code2145/AlgoForge/tree/master/1971-find-if-path-exists-in-graph) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Adity-code2145/AlgoForge/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
