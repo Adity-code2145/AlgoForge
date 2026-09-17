@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Adity-code2145/AlgoForge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adity-code2145/AlgoForge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adity-code2145/AlgoForge/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adity-code2145/AlgoForge/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adity-code2145/AlgoForge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adity-code2145/AlgoForge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Adity-code2145/AlgoForge/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adity-code2145/AlgoForge/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adity-code2145/AlgoForge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adity-code2145/AlgoForge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Adity-code2145/AlgoForge/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Adity-code2145/AlgoForge/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adity-code2145/AlgoForge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Adity-code2145/AlgoForge/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adity-code2145/AlgoForge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adity-code2145/AlgoForge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adity-code2145/AlgoForge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
 |  |
