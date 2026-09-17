@@ -9,8 +9,8 @@ class Solution {
         for(int i =0;i<mat.length;i++){
             int a = mat[i][0];
             int b = mat[i][1];
-            adj.get(a).add(b);
-            indegree[b]++;
+            adj.get(b).add(a);
+            indegree[a]++;
         }
         
         Queue<Integer> q = new LinkedList<>();
