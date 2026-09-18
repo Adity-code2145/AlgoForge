@@ -1,36 +1,36 @@
 class Solution {
     static boolean ans;
-    public boolean canFinish(int n, int[][] mat) {
+    public boolean canFinish(int n, int[][] pre) {
+        ans = true; // if there is no cycle
         List<List<Integer>> adj = new ArrayList<>();
-        for(int i = 0;i<n;i++){
+        for(int i =0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        int[] indegree = new int[n];
-        for(int i =0;i<mat.length;i++){
-            int a = mat[i][0];
-            int b = mat[i][1];
+        for(int i =0;i<pre.length;i++){
+            int a = pre[i][0];
+            int b = pre[i][1];
             adj.get(b).add(a);
-            indegree[a]++;
+           // adj.get(a).add(b);
         }
-        
-        Queue<Integer> q = new LinkedList<>();
+        boolean[] path = new boolean[n];
+        boolean[] vis = new boolean[n];
         for(int i =0;i<n;i++){
-            if(indegree[i] == 0){
-                q.add(i);
+            if(vis[i]== false){
+                dfs(i,vis,path,adj);
             }
         }
-        int count = 0;
-        while(!q.isEmpty()){
-            int curr = q.remove();
-            count++;
-
-            for(int ele : adj.get(curr)){
-                indegree[ele]--;
-                if(indegree[ele] == 0){
-                    q.add(ele);
-                }
+        return ans;
+    }
+    public void dfs(int i, boolean[] vis, boolean[] path,List<List<Integer>> adj){
+        vis[i] = true;
+        path[i] = true;
+        for(int ele : adj.get(i)){
+            if(path[ele] == true){ // cycle detect
+                ans = false;
+                return;
             }
+            if(vis[ele]== false) dfs(ele,vis,path,adj);
         }
-        return count == n;
+        path[i] = false;
     }
 }
