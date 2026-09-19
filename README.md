@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Adity-code2145/AlgoForge/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Adity-code2145/AlgoForge/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Adity-code2145/AlgoForge/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Adity-code2145/AlgoForge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adity-code2145/AlgoForge/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adity-code2145/AlgoForge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Adity-code2145/AlgoForge/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Adity-code2145/AlgoForge/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Graph Coloring
 |  |
 | ------- |
