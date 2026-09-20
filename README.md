@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Adity-code2145/AlgoForge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adity-code2145/AlgoForge/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/Adity-code2145/AlgoForge/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adity-code2145/AlgoForge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Adity-code2145/AlgoForge/tree/master/0085-maximal-rectangle) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Adity-code2145/AlgoForge/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Adity-code2145/AlgoForge/tree/master/0231-power-of-two) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adity-code2145/AlgoForge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Adity-code2145/AlgoForge/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Adity-code2145/AlgoForge/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Adity-code2145/AlgoForge/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Adity-code2145/AlgoForge/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Adity-code2145/AlgoForge/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
