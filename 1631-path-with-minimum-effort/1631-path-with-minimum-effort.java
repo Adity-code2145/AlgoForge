@@ -23,46 +23,24 @@ class Solution {
         }
         ans[0][0] = 0;
         PriorityQueue<Triplet> pq = new PriorityQueue<>();
+        int[] r = {-1,0,1,0};
+        int[] c = {0,-1,0,1};
         pq.add(new Triplet(0,0,0));
         while(!pq.isEmpty()){
             Triplet top = pq.remove();
             int row = top.row;
             int col = top.col;
             int effort = top.effort;
-            // upper side
-            if(row>0){
-                int e = Math.abs(heights[row][col] - heights[row-1][col]);
+            if(row == m-1 && col == n-1) break;
+            for(int i =0;i<=3;i++){
+                int newrow = row + r[i];
+                int newcol = col + c[i];
+                if(newrow<0 || newcol<0 || newrow>m-1 || newcol>n-1) continue;
+                int e = Math.abs(heights[row][col] - heights[newrow][newcol]);
                 e = Math.max(e,effort);
-                if(ans[row-1][col] > e){
-                    ans[row-1][col] = e;
-                    pq.add(new Triplet(row-1,col,e));
-                }
-            }
-            // down side
-            if(row<m-1){
-                int f = Math.abs(heights[row][col] - heights[row+1][col]);
-                f = Math.max(f,effort);
-                if(ans[row+1][col] > f){
-                    ans[row+1][col] = f;
-                    pq.add(new Triplet(row+1,col,f));
-                }
-            }
-            // left
-            if(col>0){
-                int g = Math.abs(heights[row][col] - heights[row][col-1]);
-                g = Math.max(g,effort);
-                if(ans[row][col-1]>g){
-                    ans[row][col-1] = g;
-                    pq.add(new Triplet(row,col-1,g));
-                }
-            }
-            //right
-            if(col<n-1){
-                int k = Math.abs(heights[row][col] - heights[row][col+1]);
-                k = Math.max(k,effort);
-                if(ans[row][col+1]>k){
-                    ans[row][col+1] = k;
-                    pq.add(new Triplet(row,col+1,k));
+                if(ans[newrow][newcol]>e){
+                    ans[newrow][newcol] = e;
+                    pq.add(new Triplet(newrow,newcol,e));
                 }
             }
         }
