@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Adity-code2145/AlgoForge/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adity-code2145/AlgoForge/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/Adity-code2145/AlgoForge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adity-code2145/AlgoForge/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Adity-code2145/AlgoForge/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Adity-code2145/AlgoForge/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Adity-code2145/AlgoForge/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Adity-code2145/AlgoForge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adity-code2145/AlgoForge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adity-code2145/AlgoForge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adity-code2145/AlgoForge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Adity-code2145/AlgoForge/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Adity-code2145/AlgoForge/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Adity-code2145/AlgoForge/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Adity-code2145/AlgoForge/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Adity-code2145/AlgoForge/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adity-code2145/AlgoForge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adity-code2145/AlgoForge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Adity-code2145/AlgoForge/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Adity-code2145/AlgoForge/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Adity-code2145/AlgoForge/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adity-code2145/AlgoForge/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Interactive
@@ -531,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adity-code2145/AlgoForge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Adity-code2145/AlgoForge/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Adity-code2145/AlgoForge/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adity-code2145/AlgoForge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adity-code2145/AlgoForge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Memoization
@@ -612,4 +619,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Adity-code2145/AlgoForge/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Adity-code2145/AlgoForge/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
