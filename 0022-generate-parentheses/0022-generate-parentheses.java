@@ -1,15 +1,15 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
-        print(n,ans,0,0,"");
+        adi(n,0,0,ans,"");
         return ans;
     }
-    public void print(int n, List<String> ans,int left, int right, String curr){
+    public void adi(int n, int left, int right,List<String> ans, String curr){
         if(right == n){
             ans.add(curr);
             return;
         }
-        if(left>right) print(n, ans,left,right+1,curr+ ')');
-        if(left<n) print(n,ans,left+1,right,curr+ '(');
+        if(left>right) adi(n,left,right+1,ans,curr+')');
+        if(left<n) adi(n,left+1,right,ans,curr+'(');
     }
 }
