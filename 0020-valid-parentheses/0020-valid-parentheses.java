@@ -3,22 +3,22 @@ class Solution {
         Stack<Character> st = new Stack<>();
         for(int i =0;i<s.length();i++){
             char ch = s.charAt(i);
-            if(ch =='(' || ch=='{' || ch == '['){
+            if(ch =='(' || ch == '{' || ch == '['){
                 st.push(ch);
             }
             else{
                 if(st.size()==0) return false;
                 char top = st.peek();
-                if(adi(top,ch)) st.pop();
+                if(adi(ch,top)) st.pop();
                 else return false;
             }
         }
         return (st.size()==0);
     }
-    public boolean adi(char top, char ch){
-        if(top=='(' && ch == ')') return true;
+    public boolean adi(char ch, char top){
+        if(top == '(' && ch == ')') return true;
         if(top == '{' && ch == '}') return true;
         if(top == '[' && ch == ']') return true;
-        else return false;
+        return false;
     }
 }
