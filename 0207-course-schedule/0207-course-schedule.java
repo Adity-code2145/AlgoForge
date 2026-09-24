@@ -1,33 +1,35 @@
 class Solution {
+    static boolean ans;
     public boolean canFinish(int n, int[][] pre) {
+        ans = true;
         List<List<Integer>> adj = new ArrayList<>();
         for(int i =0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        int[] indegree = new int[n];
         for(int i =0;i<pre.length;i++){
             int a = pre[i][0];
             int b = pre[i][1];
-            adj.get(a).add(b);
-            indegree[b]++;
+            adj.get(b).add(a);
         }
-        Queue<Integer> q = new LinkedList<>();
-        int count =0;
+        boolean[] vis = new boolean[n];
+        boolean[] path = new boolean[n];
         for(int i =0;i<n;i++){
-            if(indegree[i] == 0){
-                q.add(i);
+            if(vis[i] == false){
+                dfs(i,vis,path,adj);
             }
         }
-        while(!q.isEmpty()){
-            int front = q.remove();
-            count++;
-            for(int ele : adj.get(front)){
-                indegree[ele]--;
-                if(indegree[ele] == 0){
-                    q.add(ele);
-                }
+        return ans;
+    }
+    public void dfs(int i, boolean vis[], boolean[] path, List<List<Integer>> adj){
+        vis[i] = true;
+        path[i] = true;
+        for(int ele : adj.get(i)){
+            if(path[ele] == true){
+                ans = false;
+                return;
             }
+            if(vis[ele] == false) dfs(ele,vis,path,adj);
         }
-        return n == count;
+        path[i] = false;
     }
 }
