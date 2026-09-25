@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Adity-code2145/AlgoForge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Adity-code2145/AlgoForge/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Adity-code2145/AlgoForge/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/Adity-code2145/AlgoForge/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Adity-code2145/AlgoForge/tree/master/0402-remove-k-digits) |
+| [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Adity-code2145/AlgoForge/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adity-code2145/AlgoForge/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adity-code2145/AlgoForge/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adity-code2145/AlgoForge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Adity-code2145/AlgoForge/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Adity-code2145/AlgoForge/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Adity-code2145/AlgoForge/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adity-code2145/AlgoForge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
@@ -463,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Adity-code2145/AlgoForge/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Adity-code2145/AlgoForge/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Adity-code2145/AlgoForge/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Adity-code2145/AlgoForge/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adity-code2145/AlgoForge/tree/master/1971-find-if-path-exists-in-graph) |
