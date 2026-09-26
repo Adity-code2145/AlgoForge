@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/Adity-code2145/AlgoForge/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Adity-code2145/AlgoForge/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adity-code2145/AlgoForge/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adity-code2145/AlgoForge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adity-code2145/AlgoForge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Adity-code2145/AlgoForge/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Adity-code2145/AlgoForge/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Adity-code2145/AlgoForge/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adity-code2145/AlgoForge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adity-code2145/AlgoForge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Adity-code2145/AlgoForge/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Adity-code2145/AlgoForge/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/Adity-code2145/AlgoForge/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Adity-code2145/AlgoForge/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adity-code2145/AlgoForge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Geometry
 |  |
@@ -642,4 +645,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Adity-code2145/AlgoForge/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Adity-code2145/AlgoForge/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Adity-code2145/AlgoForge/tree/master/1631-path-with-minimum-effort) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Adity-code2145/AlgoForge/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Adity-code2145/AlgoForge/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Adity-code2145/AlgoForge/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Adity-code2145/AlgoForge/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
