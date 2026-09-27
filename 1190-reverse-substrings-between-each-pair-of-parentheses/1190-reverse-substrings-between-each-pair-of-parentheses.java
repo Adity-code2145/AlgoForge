@@ -6,14 +6,13 @@ class Solution {
             if(ch == '('){
                 st.push(curr.toString());
                 curr.setLength(0);
-            }
-            else if(ch == ')'){
+            }else if(ch == ')'){
                 curr.reverse();
                 String prev = st.pop();
                 curr.insert(0,prev);
             }
             else{
-            curr.append(ch);
+                curr.append(ch);
             }
         }
         return curr.toString();
