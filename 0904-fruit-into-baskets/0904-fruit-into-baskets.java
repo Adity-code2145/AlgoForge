@@ -1,21 +1,15 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        int[] freq = new int[10000001];
+        int n = fruits.length;
+        HashMap<Integer, Integer> map = new HashMap<>();
         int left = 0;
-        int max = -1;
-        int distinct = 0;
-        for(int right =0;right<fruits.length;right++){
-            if(freq[fruits[right]]==0){
-                distinct++;
-            }
-
-            freq[fruits[right]]++;
-
-            while(distinct>2){
-                freq[fruits[left]]--;
-
-                if(freq[fruits[left]]==0){
-                    distinct--;
+        int max = 0;
+        for(int right =0;right<n;right++){
+            map.put(fruits[right],map.getOrDefault(fruits[right],0)+1);
+            while(map.size()>2){
+                map.put(fruits[left],map.get(fruits[left])-1);
+                if(map.get(fruits[left]) == 0){
+                    map.remove(fruits[left]);
                 }
                 left++;
             }
