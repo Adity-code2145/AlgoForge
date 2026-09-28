@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Adity-code2145/AlgoForge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adity-code2145/AlgoForge/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Adity-code2145/AlgoForge/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adity-code2145/AlgoForge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adity-code2145/AlgoForge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adity-code2145/AlgoForge/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adity-code2145/AlgoForge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Adity-code2145/AlgoForge/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Adity-code2145/AlgoForge/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adity-code2145/AlgoForge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adity-code2145/AlgoForge/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adity-code2145/AlgoForge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Adity-code2145/AlgoForge/tree/master/0992-subarrays-with-k-different-integers) |
 | [2029-stone-game-ix](https://github.com/Adity-code2145/AlgoForge/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
