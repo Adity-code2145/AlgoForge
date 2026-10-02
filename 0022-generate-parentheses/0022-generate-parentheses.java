@@ -5,7 +5,7 @@ class Solution {
         return ans;
     }
     public void print(int n, List<String> ans, int left, int right, String curr){
-        if(n == curr.length()){
+        if(n == right){
             ans.add(curr);
             return;
         }
