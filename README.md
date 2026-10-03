@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Adity-code2145/AlgoForge/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adity-code2145/AlgoForge/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0680-valid-palindrome-ii) |
 | [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adity-code2145/AlgoForge/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Adity-code2145/AlgoForge/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adity-code2145/AlgoForge/tree/master/0560-subarray-sum-equals-k) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Adity-code2145/AlgoForge/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adity-code2145/AlgoForge/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Adity-code2145/AlgoForge/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Adity-code2145/AlgoForge/tree/master/0904-fruit-into-baskets) |
