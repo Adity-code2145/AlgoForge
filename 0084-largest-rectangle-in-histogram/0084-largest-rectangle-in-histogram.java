@@ -18,16 +18,16 @@ class Solution {
         pse[0] = -1;
         ts.push(0);
         for(int i =0;i<n;i++){
-            while(ts.isEmpty() && h[i] <= h[ts.peek()]){
+            while(!ts.isEmpty() && h[i] <= h[ts.peek()]){
                 ts.pop();
             }
-            if(ts.isEmpty()) pse[i] = n;
+            if(ts.isEmpty()) pse[i] = -1;
             else pse[i] = ts.peek();
             ts.push(i);
         }
         int max = Integer.MIN_VALUE;
         for(int i =0;i<n;i++){
-            int sum = h[i]*(nse[i]-pse[i]+1);
+            int sum = h[i]*(nse[i]-pse[i]-1);
             max = Math.max(max,sum);
         }
         return max;
