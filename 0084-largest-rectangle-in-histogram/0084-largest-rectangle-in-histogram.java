@@ -1,36 +1,35 @@
 class Solution {
-    public int largestRectangleArea(int[] heights) {
-        int n = heights.length;
+    public int largestRectangleArea(int[] h) {
+        int n = h.length;
         Stack<Integer> st = new Stack<>();
         int[] nse = new int[n];
         int[] pse = new int[n];
         nse[n-1] = n;
         st.push(n-1);
-        for(int i =n-2;i>=0;i--){
-            while(st.size()>0 && heights[i]<= heights[st.peek()]){
+        for(int i= n-2;i>=0;i--){
+            while(!st.isEmpty() && h[i] <= h[st.peek()]){
                 st.pop();
             }
-            if(st.size()==0) nse[i] = n;
+            if(st.isEmpty()) nse[i] = n;
             else nse[i] = st.peek();
             st.push(i);
         }
         Stack<Integer> ts = new Stack<>();
-        ts.push(0);
         pse[0] = -1;
+        ts.push(0);
         for(int i =0;i<n;i++){
-            while(ts.size()>0 && heights[i]<= heights[ts.peek()]){
+            while(ts.isEmpty() && h[i] <= h[ts.peek()]){
                 ts.pop();
             }
-            if(ts.size()==0) pse[i] = -1;
+            if(ts.isEmpty()) pse[i] = n;
             else pse[i] = ts.peek();
             ts.push(i);
         }
-
         int max = Integer.MIN_VALUE;
         for(int i =0;i<n;i++){
-            int sum = heights[i]*(nse[i]-pse[i]-1);
+            int sum = h[i]*(nse[i]-pse[i]+1);
             max = Math.max(max,sum);
         }
-        return max; 
+        return max;
     }
 }
