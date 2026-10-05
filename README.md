@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adity-code2145/AlgoForge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Adity-code2145/AlgoForge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Adity-code2145/AlgoForge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Adity-code2145/AlgoForge/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/Adity-code2145/AlgoForge/tree/master/0485-max-consecutive-ones) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Adity-code2145/AlgoForge/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/Adity-code2145/AlgoForge/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adity-code2145/AlgoForge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Adity-code2145/AlgoForge/tree/master/0496-next-greater-element-i) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adity-code2145/AlgoForge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Adity-code2145/AlgoForge/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
