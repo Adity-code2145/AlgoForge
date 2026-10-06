@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Adity-code2145/AlgoForge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Adity-code2145/AlgoForge/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Adity-code2145/AlgoForge/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Adity-code2145/AlgoForge/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Adity-code2145/AlgoForge/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Adity-code2145/AlgoForge/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Adity-code2145/AlgoForge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adity-code2145/AlgoForge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Adity-code2145/AlgoForge/tree/master/0844-backspace-string-compare) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Adity-code2145/AlgoForge/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adity-code2145/AlgoForge/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Adity-code2145/AlgoForge/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Adity-code2145/AlgoForge/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adity-code2145/AlgoForge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/3498-reverse-degree-of-a-string) |
