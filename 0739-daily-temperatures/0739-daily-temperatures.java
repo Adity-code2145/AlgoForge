@@ -3,13 +3,13 @@ class Solution {
         int n = arr.length;
         Stack<Integer> st = new Stack<>();
         int[] nge = new int[n];
-        for(int i =n-1;i>=0;i--){
-            while(!st.isEmpty() && arr[i] >= arr[st.peek()]){
-               st.pop();
+        // Arrays.fill(nge,-1);
+        for(int i =0;i<n;i++){
+            while(!st.isEmpty() && arr[i]> arr[st.peek()]){
+                int prev = st.pop();
+                nge[prev] = i-prev;
             }
-            if(!st.isEmpty()){
-                nge[i] = st.peek()-i;
-            }
+            
             st.push(i);
         }
         return nge;
