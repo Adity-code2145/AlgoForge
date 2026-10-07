@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Adity-code2145/AlgoForge/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/Adity-code2145/AlgoForge/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Adity-code2145/AlgoForge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Adity-code2145/AlgoForge/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Adity-code2145/AlgoForge/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adity-code2145/AlgoForge/tree/master/0424-longest-repeating-character-replacement) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Adity-code2145/AlgoForge/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Adity-code2145/AlgoForge/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Adity-code2145/AlgoForge/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Adity-code2145/AlgoForge/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adity-code2145/AlgoForge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Adity-code2145/AlgoForge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Adity-code2145/AlgoForge/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Adity-code2145/AlgoForge/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Adity-code2145/AlgoForge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Adity-code2145/AlgoForge/tree/master/0743-network-delay-time) |
