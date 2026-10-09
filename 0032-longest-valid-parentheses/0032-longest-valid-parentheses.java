@@ -3,7 +3,7 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         st.push(-1);
         int max = 0;
-        for(int i =0;i<s.length();i++){
+        for(int i = 0;i<s.length();i++){
             if(s.charAt(i) == '('){
                 st.push(i);
             }
@@ -13,7 +13,7 @@ class Solution {
                     st.push(i);
                 }
                 else{
-                    max = Math.max(max, i - st.peek());
+                    max = Math.max(max,i-st.peek());
                 }
             }
         }
