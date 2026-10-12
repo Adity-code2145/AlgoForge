@@ -1,17 +1,14 @@
 class Solution {
-    static int maxdia;
+    int maxdia = 0;
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root == null) return 0;
-        maxdia = 0;
-        dia(root);
+        dfs(root);
         return maxdia;
     }
-    public int dia(TreeNode root){
+    public int dfs(TreeNode root){
         if(root == null) return 0;
-        int leftsum = dia(root.left);
-        int rightsum = dia(root.right);
-        int sum = leftsum+rightsum;
-        maxdia = Math.max(sum,maxdia);
-        return 1+Math.max(leftsum,rightsum);
+        int left = dfs(root.left);
+        int right = dfs(root.right);
+        maxdia = Math.max(maxdia,left+right);
+        return 1+ Math.max(left,right);
     }
 }
