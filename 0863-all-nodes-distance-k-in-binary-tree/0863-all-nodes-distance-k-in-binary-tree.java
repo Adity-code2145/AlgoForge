@@ -4,7 +4,6 @@ class Solution {
         build(root,null);
         Queue<TreeNode> q = new LinkedList<>();
         HashSet<TreeNode> set = new HashSet<>();
-
         q.add(target);
         set.add(target);
         int dist = 0;
@@ -13,17 +12,15 @@ class Solution {
                 break;
             }
             int size = q.size();
-
             for(int i =0;i<size;i++){
                 TreeNode curr = q.poll();
-
                 if(curr.left!=null && set.add(curr.left)){
                     q.add(curr.left);
                 }
-                if(curr.right!= null && set.add(curr.right)){
+                if(curr.right!=null && set.add(curr.right)){
                     q.add(curr.right);
                 }
-                if(map.get(curr)!= null && set.add(map.get(curr))){
+                if(map.get(curr)!=null && set.add(map.get(curr))){
                     q.add(map.get(curr));
                 }
             }
@@ -35,11 +32,11 @@ class Solution {
         }
         return ans;
     }
-    public void build(TreeNode root, TreeNode pare){
-        if(root == null){
+    public void build(TreeNode root, TreeNode par){
+        if(root ==null){
             return;
         }
-        map.put(root,pare);
+        map.put(root,par);
         build(root.left,root);
         build(root.right,root);
     }
