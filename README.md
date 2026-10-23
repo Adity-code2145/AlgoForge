@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adity-code2145/AlgoForge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adity-code2145/AlgoForge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Adity-code2145/AlgoForge/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Adity-code2145/AlgoForge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adity-code2145/AlgoForge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adity-code2145/AlgoForge/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Adity-code2145/AlgoForge/tree/master/0844-backspace-string-compare) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Adity-code2145/AlgoForge/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Adity-code2145/AlgoForge/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
