@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Adity-code2145/AlgoForge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Adity-code2145/AlgoForge/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Adity-code2145/AlgoForge/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Adity-code2145/AlgoForge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Adity-code2145/AlgoForge/tree/master/0162-find-peak-element) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Adity-code2145/AlgoForge/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Adity-code2145/AlgoForge/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Adity-code2145/AlgoForge/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Adity-code2145/AlgoForge/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Adity-code2145/AlgoForge/tree/master/0198-house-robber) |
