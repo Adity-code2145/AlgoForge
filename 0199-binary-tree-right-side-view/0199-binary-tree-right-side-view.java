@@ -5,7 +5,7 @@ class Solution {
             return ans;
         }
         print(root,ans,0);
-        return ans;   
+        return ans;
     }
     public void print(TreeNode root, List<Integer> ans, int level){
         if(root == null) return;
@@ -15,7 +15,7 @@ class Solution {
         else{
             ans.set(level,root.val);
         }
-        print(root.left, ans, level+1);
-        print(root.right,ans, level+1);
+        print(root.left,ans,level+1);
+        print(root.right,ans,level+1);
     }
 }
