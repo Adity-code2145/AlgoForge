@@ -6,21 +6,20 @@ class Solution {
         }
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-
         while(!q.isEmpty()){
             int size = q.size();
-            List<Integer> list = new ArrayList<>();
+            List<Integer> curr = new ArrayList<>();
             for(int i = 0;i<size;i++){
-                TreeNode curr = q.poll();
-                list.add(curr.val);
-                if(curr.left!=null){
-                    q.add(curr.left);
+                TreeNode node = q.poll();
+                curr.add(node.val);
+                if(node.left!=null){
+                    q.add(node.left);
                 }
-                if(curr.right!=null){
-                    q.add(curr.right);
+                if(node.right!=null){
+                    q.add(node.right);
                 }
             }
-            ans.add(list);
+            ans.add(curr);
         }
         return ans;
     }
