@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Adity-code2145/AlgoForge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Adity-code2145/AlgoForge/tree/master/0239-sliding-window-maximum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adity-code2145/AlgoForge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Adity-code2145/AlgoForge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Adity-code2145/AlgoForge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0503-next-greater-element-ii) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Adity-code2145/AlgoForge/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adity-code2145/AlgoForge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Adity-code2145/AlgoForge/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Adity-code2145/AlgoForge/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Adity-code2145/AlgoForge/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adity-code2145/AlgoForge/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Adity-code2145/AlgoForge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
