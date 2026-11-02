@@ -12,7 +12,7 @@ class Solution {
         if(ans.size()<=level){
             ans.add(root.val);
         }
-        else if(level<=ans.size()){
+        else {
             ans.set(level,root.val);
         }
         dfs(root.left,ans,level+1);
