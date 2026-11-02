@@ -4,18 +4,18 @@ class Solution {
         if(root == null){
             return ans;
         }
-        print(root,ans,0);
+        dfs(root,ans,0);
         return ans;
     }
-    public void print(TreeNode root, List<Integer> ans, int level){
+    public void dfs(TreeNode root, List<Integer> ans,int level){
         if(root == null) return;
         if(ans.size()<=level){
             ans.add(root.val);
         }
-        else{
+        else if(level<=ans.size()){
             ans.set(level,root.val);
         }
-        print(root.left,ans,level+1);
-        print(root.right,ans,level+1);
+        dfs(root.left,ans,level+1);
+        dfs(root.right,ans,level+1);
     }
 }
