@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Adity-code2145/AlgoForge/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adity-code2145/AlgoForge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Design
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Adity-code2145/AlgoForge/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Adity-code2145/AlgoForge/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adity-code2145/AlgoForge/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adity-code2145/AlgoForge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adity-code2145/AlgoForge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Adity-code2145/AlgoForge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adity-code2145/AlgoForge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adity-code2145/AlgoForge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adity-code2145/AlgoForge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adity-code2145/AlgoForge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Adity-code2145/AlgoForge/tree/master/3524-find-x-value-of-array-i) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adity-code2145/AlgoForge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adity-code2145/AlgoForge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adity-code2145/AlgoForge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Adity-code2145/AlgoForge/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adity-code2145/AlgoForge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Adity-code2145/AlgoForge/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adity-code2145/AlgoForge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adity-code2145/AlgoForge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adity-code2145/AlgoForge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adity-code2145/AlgoForge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Stack
 |  |
@@ -309,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Adity-code2145/AlgoForge/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Adity-code2145/AlgoForge/tree/master/2104-sum-of-subarray-ranges) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adity-code2145/AlgoForge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -815,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adity-code2145/AlgoForge/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adity-code2145/AlgoForge/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adity-code2145/AlgoForge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Linked List
 |  |
 | ------- |
