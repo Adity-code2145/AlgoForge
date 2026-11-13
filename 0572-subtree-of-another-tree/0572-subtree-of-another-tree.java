@@ -3,25 +3,21 @@ class Solution {
         if(root == null){
             return false;
         }
-
-        if(issame(root, subRoot)){
+        if(isSame(root,subRoot)){
             return true;
         }
-
-        return (isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot));
-
+        return isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot);         
     }
-    public boolean issame(TreeNode p, TreeNode q){
+    public boolean isSame(TreeNode p, TreeNode q){
         if(p == null && q == null){
             return true;
         }
-        else if(p == null || q == null){
+        if(p == null || q == null){
             return false;
         }
-        else if(p.val != q.val){
+        if(p.val != q.val){
             return false;
         }
-
-        return issame(p.left,q.left) && issame(p.right,q.right);
+        return isSame(p.left,q.left) && isSame(p.right,q.right);
     }
 }
