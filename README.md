@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/Adity-code2145/AlgoForge/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adity-code2145/AlgoForge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Adity-code2145/AlgoForge/tree/master/1584-min-cost-to-connect-all-points) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Adity-code2145/AlgoForge/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adity-code2145/AlgoForge/tree/master/0918-maximum-sum-circular-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adity-code2145/AlgoForge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adity-code2145/AlgoForge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Adity-code2145/AlgoForge/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Adity-code2145/AlgoForge/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Adity-code2145/AlgoForge/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Adity-code2145/AlgoForge/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adity-code2145/AlgoForge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adity-code2145/AlgoForge/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Adity-code2145/AlgoForge/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adity-code2145/AlgoForge/tree/master/1208-get-equal-substrings-within-budget) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adity-code2145/AlgoForge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Adity-code2145/AlgoForge/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adity-code2145/AlgoForge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adity-code2145/AlgoForge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
