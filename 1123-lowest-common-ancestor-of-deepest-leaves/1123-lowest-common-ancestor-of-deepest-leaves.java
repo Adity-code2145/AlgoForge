@@ -1,8 +1,8 @@
 class Solution {
     static class Pair{
-        TreeNode node;
         int h;
-        Pair(TreeNode node,int h){
+        TreeNode node;
+        Pair(TreeNode node, int h){
             this.node = node;
             this.h = h;
         }
@@ -14,14 +14,13 @@ class Solution {
         if(root == null){
             return new Pair(null,0);
         }
-
         Pair left = dfs(root.left);
         Pair right = dfs(root.right);
 
         if(left.h == right.h){
             return new Pair(root,left.h+1);
         }
-        else if(left.h>right.h){
+        else if(left.h > right.h){
             return new Pair(left.node,left.h+1);
         }
         else{
