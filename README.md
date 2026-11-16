@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Adity-code2145/AlgoForge/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Adity-code2145/AlgoForge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adity-code2145/AlgoForge/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Adity-code2145/AlgoForge/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Adity-code2145/AlgoForge/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Adity-code2145/AlgoForge/tree/master/0844-backspace-string-compare) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Adity-code2145/AlgoForge/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adity-code2145/AlgoForge/tree/master/3069-distribute-elements-into-two-arrays-i) |
