@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Adity-code2145/AlgoForge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adity-code2145/AlgoForge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Adity-code2145/AlgoForge/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adity-code2145/AlgoForge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adity-code2145/AlgoForge/tree/master/3498-reverse-degree-of-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Adity-code2145/AlgoForge/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
